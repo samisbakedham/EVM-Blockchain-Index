@@ -1576,7 +1576,7 @@ var EVMJson=[{
     "decimals": 18
   },
   "infoURL": "https://candlelabs.org",
-  "shortName": "Candle",
+  "shortName": "CNDL",
   "chainId": 534,
   "networkId": 534
 }, {
