@@ -1564,6 +1564,21 @@ var EVMJson=[{
   "chainId": 499,
   "networkId": 499,
   "slip44": 499
+},  {
+  "name": "Candle",
+  "chain": "Candle",
+  "network": "mainnet",
+  "rpc": ["https://rpc.cndlchain.com", "http://candle-rpc.com", "https://rpc.candlelabs.org", "wss://rpc.cndlchain.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18
+  },
+  "infoURL": "https://candlelabs.org",
+  "shortName": "Candle",
+  "chainId": 534,
+  "networkId": 534
 }, {
   "name": "Tao Network",
   "chain": "TAO",
